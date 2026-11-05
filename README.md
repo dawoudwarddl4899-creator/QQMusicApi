@@ -78,6 +78,6 @@ console.log(qqMusic.cookie);
 const qqMusic = require('qq-music-api');
 
 console.log(qqMusic.uin);
-```
+``` 
 
 
